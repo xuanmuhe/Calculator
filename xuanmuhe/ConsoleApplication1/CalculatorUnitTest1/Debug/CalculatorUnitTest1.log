@@ -1,0 +1,12 @@
+﻿生成启动时间为 2019/10/14 22:09:57。
+     1>项目“D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\CalculatorUnitTest1\CalculatorUnitTest1.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\Debug\CalculatorUnitTest1.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\lib" "D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleApplication1.obj" "D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\ConsoleApplication1\Debug\stdafx.obj" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\Debug\CalculatorUnitTest1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\Debug\CalculatorUnitTest1.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\unittest1.obj
+           正在创建库 D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\Debug\CalculatorUnitTest1.lib 和对象 D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\Debug\CalculatorUnitTest1.exp
+         CalculatorUnitTest1.vcxproj -> D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\Debug\CalculatorUnitTest1.dll
+     1>已完成生成项目“D:\文件夹\2019秋季学期\ruangong\Calculator\xuanmuhe\ConsoleApplication1\CalculatorUnitTest1\CalculatorUnitTest1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.51
